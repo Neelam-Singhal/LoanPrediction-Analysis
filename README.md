@@ -1,5 +1,5 @@
 # LoanPrediction-Analysis
-## Predicting accurately weather loan will be approved or not
+## Predicting accurately wether loan will be approved or not
 
 ### Problem Statement
 
